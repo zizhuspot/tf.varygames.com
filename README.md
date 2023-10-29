@@ -1,6 +1,6 @@
 # TechFinance
 
-> TechFinance is a website for the technology and finance sector. We provide the latest tech and finance news, as well as in-depth reporting and analysis. Our goal is to help our readers stay up-to-date with the latest trends in tech and finance and provide them with valuable insights and information. Whether you&#39;re a tech enthusiast, an investor or a professional working in the finance industry, we have content for you. Welcome to TechFinance! 
+> TechFinance is a website for the technology and finance sector. We provide the latest tech and finance news, as well as in-depth reporting and analysis. Our goal is to help our readers stay up-to-date with the latest trends in tech and finance and provide them with valuable insights and information. Whether you&#39;re a tech enthusiast, an investor or a professional working in the finance industry, we have content for you. Welcome to TechFinance!
 
 ## 关于页面
 
@@ -35,7 +35,7 @@
 ```yml
 title: TechFinance
 subtitle: Explore the latest technology and financial news
-description: TechFinance is a website for the technology and finance sector. We provide the latest tech and finance news, as well as in-depth reporting and analysis. Our goal is to help our readers stay up-to-date with the latest trends in tech and finance and provide them with valuable insights and information. Whether you&#39;re a tech enthusiast, an investor or a professional working in the finance industry, we have content for you. Welcome to TechFinance! 
+description: TechFinance is a website for the technology and finance sector. We provide the latest tech and finance news, as well as in-depth reporting and analysis. Our goal is to help our readers stay up-to-date with the latest trends in tech and finance and provide them with valuable insights and information. Whether you&#39;re a tech enthusiast, an investor or a professional working in the finance industry, we have content for you. Welcome to TechFinance!
 keywords:
 # 作者名称，会显示在侧边栏
 author: baikuan
