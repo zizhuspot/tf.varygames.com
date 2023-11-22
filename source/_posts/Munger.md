@@ -1,12 +1,4 @@
----
-title: 99-Year-Old Munger's Latest Share: Better to Look Stupid Than Broke
-date: 2023-11-03 11:57:24
-categories:
-  - News
-tags:
-  - Finance
-  - Munger
----
+
 
 ![](https://cdn.jsdelivr.net/gh/Mu1sezz/Picture@img/img/20231104192841.png)
 
