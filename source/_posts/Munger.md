@@ -1,5 +1,5 @@
 ---
-title: Munger: Better to Look Stupid Than Broke
+title: 99-Year-Old Munger's Latest Share: Better to Look Stupid Than Broke
 date: 2023-11-03 11:57:24
 categories:
   - News
@@ -26,7 +26,7 @@ The easiest trade is to know ahead of time what you know, they increase their le
 
 **When faced with an investment quagmire, we'd rather look stupid than broke.** If I were running the world, I'd tax short term traders heavily and drive those speculators out of the market.
 
-### II. Real estate only gets two or three chances in a century
+## II. Real estate only gets two or three chances in a century
 
 In good business, every decision is easy and you don't even have to think about it; in bad business, every decision is difficult and you are always in and out and struggling. Berkshire's investment in real estate in Japan is demonstrably good business.
 
@@ -81,7 +81,7 @@ Costco's strengths are many:
 
 Costco's low SKU counts and high inventory turns put these advantages together perfectly, and it's the magic of the business model and corporate culture that requires great execution to make it work. You have to really get down to business and then keep sticking to the basics every day, every week, every year for 40 years, and it's not that easy. Buy a great company like Costco and don't bother thinking about exiting.
 
-## IV A young man knows the rules, an old man knows the exceptions
+## IV. A young man knows the rules, an old man knows the exceptions
 
 ### On investing: always bet heavily on the best investments
 
