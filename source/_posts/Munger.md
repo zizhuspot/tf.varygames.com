@@ -1,4 +1,13 @@
 ---
+title: Hello WorldMunger: Better to Look Stupid Than Broke
+date: 2023-11-03 19:50:26
+categories:
+  - Finance
+tags:
+  - News
+---
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
 title: 99-Year-Old Munger's Latest Share: Better to Look Stupid Than Broke
 date: 2023-11-03 11:57:24
 categories:
@@ -8,7 +17,6 @@ tags:
   - Munger
 description: In this blog, I'm going to share Charlie Munger shares his investment philosophy and views on current hot topics
 cover: https://cdn.jsdelivr.net/gh/Mu1sezz/Picture@img/img/20231104192841.png
----
 
 Recently, Munger, who turns 100 in two months, was interviewed by the technology podcast Acquired for the first time in the form of a podcast, talking about his investment philosophy and the thinking mode behind his decisions over the past 99 years, and also including his views on the hot topics of the moment: what's wrong with today's global securities market, how to look at investment opportunities in China, and a few suggestions for the young people.
 
