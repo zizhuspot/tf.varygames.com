@@ -1,10 +1,10 @@
 ---
-title: Can the poor be better off with hope?
-date: 2023-09-26 19:57:24
+title: Can the poor be better off with hope
+date: 2023-11-17 09:57:24
 categories:
-  - Artical
+  - Finance
 tags:
-  - Share
+  - Artical
 description: This article presents research on the importance of hope for the well-being and personal development of the poor from University of Maryland professor Carol Graham's new book, The Power of Hope.
 cover: https://cdn.jsdelivr.net/gh/Mu1sezz/Picture@img/img/20231104193703.png
 ---
