@@ -5,9 +5,9 @@ categories:
   - Finance
 tags:
   - News
----
 description: In this blog, I'm going to share Charlie Munger shares his investment philosophy and views on current hot topics
 cover: https://cdn.jsdelivr.net/gh/Mu1sezz/Picture@img/img/20231104192841.png
+---
 
 Recently, Munger, who turns 100 in two months, was interviewed by the technology podcast Acquired for the first time in the form of a podcast, talking about his investment philosophy and the thinking mode behind his decisions over the past 99 years, and also including his views on the hot topics of the moment: what's wrong with today's global securities market, how to look at investment opportunities in China, and a few suggestions for the young people.
 
