@@ -5,7 +5,6 @@ categories:
   - Finance
 tags:
   - Artical
-description: This article presents research on the importance of hope for the well-being and personal development of the poor from University of Maryland professor Carol Graham's new book, The Power of Hope.
 cover: https://cdn.jsdelivr.net/gh/Mu1sezz/Picture@img/img/20231104193703.png
 ---
 
